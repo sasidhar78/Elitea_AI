@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C09856C-689B-4457-8911-586DD718D9A1}|ClassLibrary1\\PageObjectModel.csproj|c:\\users\\sasidhar_nemmani\\desktop\\gc\\gcspecflow\\finalspecflow - copy - copy - copy\\classlibrary1\\saucedemo\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C09856C-689B-4457-8911-586DD718D9A1}|ClassLibrary1\\PageObjectModel.csproj|solutionrelative:classlibrary1\\saucedemo\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA415-4850-4C3F-973F-2055781E9E79}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\sasidhar_nemmani\\desktop\\gc\\gcspecflow\\finalspecflow - copy - copy - copy\\specflowproject\\features\\saucedemo.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D8FA415-4850-4C3F-973F-2055781E9E79}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\features\\saucedemo.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA415-4850-4C3F-973F-2055781E9E79}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\sasidhar_nemmani\\desktop\\gc\\gcspecflow\\finalspecflow - copy - copy - copy\\specflowproject\\hooks\\testautomationwebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FA415-4850-4C3F-973F-2055781E9E79}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\hooks\\testautomationwebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C09856C-689B-4457-8911-586DD718D9A1}|ClassLibrary1\\PageObjectModel.csproj|c:\\users\\sasidhar_nemmani\\desktop\\gc\\gcspecflow\\finalspecflow - copy - copy - copy\\classlibrary1\\testautomationwebsite\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C09856C-689B-4457-8911-586DD718D9A1}|ClassLibrary1\\PageObjectModel.csproj|solutionrelative:classlibrary1\\testautomationwebsite\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA415-4850-4C3F-973F-2055781E9E79}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\sasidhar_nemmani\\desktop\\gc\\gcspecflow\\finalspecflow - copy - copy - copy\\specflowproject\\features\\testautomation.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D8FA415-4850-4C3F-973F-2055781E9E79}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\features\\testautomation.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA415-4850-4C3F-973F-2055781E9E79}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\sasidhar_nemmani\\desktop\\gc\\gcspecflow\\finalspecflow - copy - copy - copy\\specflowproject\\stepdefinitions\\testingtestautomationwebsitestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FA415-4850-4C3F-973F-2055781E9E79}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\stepdefinitions\\testingtestautomationwebsitestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398AEB7D-C08E-4FEA-901E-EAF834AAF799}|FrameWorkLayer\\FrameWorkLayer.csproj|c:\\users\\sasidhar_nemmani\\desktop\\gc\\gcspecflow\\finalspecflow - copy - copy - copy\\frameworklayer\\webutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398AEB7D-C08E-4FEA-901E-EAF834AAF799}|FrameWorkLayer\\FrameWorkLayer.csproj|solutionrelative:frameworklayer\\webutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398AEB7D-C08E-4FEA-901E-EAF834AAF799}|FrameWorkLayer\\FrameWorkLayer.csproj|c:\\users\\sasidhar_nemmani\\desktop\\gc\\gcspecflow\\finalspecflow - copy - copy - copy\\frameworklayer\\elements\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398AEB7D-C08E-4FEA-901E-EAF834AAF799}|FrameWorkLayer\\FrameWorkLayer.csproj|solutionrelative:frameworklayer\\elements\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398AEB7D-C08E-4FEA-901E-EAF834AAF799}|FrameWorkLayer\\FrameWorkLayer.csproj|c:\\users\\sasidhar_nemmani\\desktop\\gc\\gcspecflow\\finalspecflow - copy - copy - copy\\frameworklayer\\javascriptexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398AEB7D-C08E-4FEA-901E-EAF834AAF799}|FrameWorkLayer\\FrameWorkLayer.csproj|solutionrelative:frameworklayer\\javascriptexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8FA415-4850-4C3F-973F-2055781E9E79}|SpecFlowProject\\SpecFlowProject.csproj|c:\\users\\sasidhar_nemmani\\desktop\\gc\\gcspecflow\\finalspecflow - copy - copy - copy\\specflowproject\\features\\testautomation.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8FA415-4850-4C3F-973F-2055781E9E79}|SpecFlowProject\\SpecFlowProject.csproj|solutionrelative:specflowproject\\features\\testautomation.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398AEB7D-C08E-4FEA-901E-EAF834AAF799}|FrameWorkLayer\\FrameWorkLayer.csproj|c:\\users\\sasidhar_nemmani\\desktop\\gc\\gcspecflow\\finalspecflow - copy - copy - copy\\frameworklayer\\frameworklayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{398AEB7D-C08E-4FEA-901E-EAF834AAF799}|FrameWorkLayer\\FrameWorkLayer.csproj|solutionrelative:frameworklayer\\frameworklayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\ClassLibrary1\\SauceDemo\\LoginPage.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\SauceDemo\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\ClassLibrary1\\SauceDemo\\LoginPage.cs",
+              "RelativeToolTip": "ClassLibrary1\\SauceDemo\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:58:35.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SauceDemo.feature",
+              "DocumentMoniker": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\SpecFlowProject\\Features\\SauceDemo.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject\\Features\\SauceDemo.feature",
+              "ToolTip": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\SpecFlowProject\\Features\\SauceDemo.feature",
+              "RelativeToolTip": "SpecFlowProject\\Features\\SauceDemo.feature",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-05T10:24:07.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestAutomation.feature",
+              "DocumentMoniker": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\SpecFlowProject\\Features\\TestAutomation.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject\\Features\\TestAutomation.feature",
+              "ToolTip": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\SpecFlowProject\\Features\\TestAutomation.feature",
+              "RelativeToolTip": "SpecFlowProject\\Features\\TestAutomation.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-05T06:31:10.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestAutomationWebsite.cs",
+              "DocumentMoniker": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\SpecFlowProject\\Hooks\\TestAutomationWebsite.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject\\Hooks\\TestAutomationWebsite.cs",
+              "ToolTip": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\SpecFlowProject\\Hooks\\TestAutomationWebsite.cs",
+              "RelativeToolTip": "SpecFlowProject\\Hooks\\TestAutomationWebsite.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:31:17.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\ClassLibrary1\\TestAutomationWebsite\\HomePage.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\TestAutomationWebsite\\HomePage.cs",
+              "ToolTip": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\ClassLibrary1\\TestAutomationWebsite\\HomePage.cs",
+              "RelativeToolTip": "ClassLibrary1\\TestAutomationWebsite\\HomePage.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAADgv2cAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:31:02.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\FrameWorkLayer\\WebUtilities.cs",
+              "RelativeDocumentMoniker": "FrameWorkLayer\\WebUtilities.cs",
+              "ToolTip": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\FrameWorkLayer\\WebUtilities.cs",
+              "RelativeToolTip": "FrameWorkLayer\\WebUtilities.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwBkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:30:49.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestingTestAutomationWebsiteStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\SpecFlowProject\\StepDefinitions\\TestingTestAutomationWebsiteStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject\\StepDefinitions\\TestingTestAutomationWebsiteStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\SpecFlowProject\\StepDefinitions\\TestingTestAutomationWebsiteStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowProject\\StepDefinitions\\TestingTestAutomationWebsiteStepDefinitions.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwFYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:30:39.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JavaScriptExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\FrameWorkLayer\\JavaScriptExecutor.cs",
+              "RelativeDocumentMoniker": "FrameWorkLayer\\JavaScriptExecutor.cs",
+              "ToolTip": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\FrameWorkLayer\\JavaScriptExecutor.cs",
+              "RelativeToolTip": "FrameWorkLayer\\JavaScriptExecutor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:50:42.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DropDown.cs",
+              "DocumentMoniker": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\FrameWorkLayer\\Elements\\DropDown.cs",
+              "RelativeDocumentMoniker": "FrameWorkLayer\\Elements\\DropDown.cs",
+              "ToolTip": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\FrameWorkLayer\\Elements\\DropDown.cs",
+              "RelativeToolTip": "FrameWorkLayer\\Elements\\DropDown.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAewCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:31:42.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestAutomation.feature.cs",
+              "DocumentMoniker": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\SpecFlowProject\\Features\\TestAutomation.feature.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject\\Features\\TestAutomation.feature.cs",
+              "ToolTip": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\SpecFlowProject\\Features\\TestAutomation.feature.cs",
+              "RelativeToolTip": "SpecFlowProject\\Features\\TestAutomation.feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:31:10.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrameWorkLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\FrameWorkLayer\\FrameWorkLayer.csproj",
+              "RelativeDocumentMoniker": "FrameWorkLayer\\FrameWorkLayer.csproj",
+              "ToolTip": "C:\\Users\\sasidhar_nemmani\\Desktop\\GC\\GcSpecflow\\FinalSpecflow - Copy - Copy - Copy\\FrameWorkLayer\\FrameWorkLayer.csproj",
+              "RelativeToolTip": "FrameWorkLayer\\FrameWorkLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T06:30:08.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
